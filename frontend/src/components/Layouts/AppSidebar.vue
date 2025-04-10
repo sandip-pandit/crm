@@ -195,12 +195,12 @@ const isDemoSite = ref(window.is_demo_site)
 
 const links = [
   {
-    label: 'Leads',
+    label: 'Patient',
     icon: LeadsIcon,
     to: 'Leads',
   },
   {
-    label: 'Deals',
+    label: 'Bookings',
     icon: DealsIcon,
     to: 'Deals',
   },
